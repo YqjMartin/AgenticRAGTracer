@@ -1,0 +1,6 @@
+gpu_id: ""
+retrieval_method: "e5"
+retrieval_model_path: "e5-base-v2"
+index_path: "e5_flat_inner.index" 
+faiss_gpu: False
+corpus_path: "wiki18_100w.jsonl"  
