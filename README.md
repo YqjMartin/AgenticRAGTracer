@@ -50,7 +50,7 @@ You can use the code of multihop_run.py and multihop_pipeline.py to build the Mu
 # multihop_pipeline.py
 API_URL = ""                        # The URL address of the LLM API you are using
 API_KEY = ""                        # API key
-DEFAULT_MODEL = ""       # The model you want to use for generation
+DEFAULT_MODEL = ""                  # The model you want to use for generation
 ```
 
 ``` bash    
