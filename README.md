@@ -49,8 +49,8 @@ You can use the code of multihop_run.py and multihop_pipeline.py to build the Mu
 ``` bash
 # multihop_pipeline.py
 API_URL = ""                        # The URL address of the LLM API you are using
-API_KEY = ""                        # The API key
-DEFAULT_MODEL = "gpt-4o-mini"       # The model you want to use for generation
+API_KEY = ""                        # API key
+DEFAULT_MODEL = ""       # The model you want to use for generation
 ```
 
 ``` bash    
@@ -63,3 +63,13 @@ python multihop_run.py
 ## 📊 Evaluation
 
 You can use the code in evaluation.py to evaluate the LLM that you want to assess. Below are some of the configurations you need to make.
+
+``` bash
+MAX_WORKERS =                    # Maximum number of working threads
+MODEL_ID = ""                    # The name of the LLM you wish to evaluate
+API_BASE =  ""                   # API base URL
+API_URL = ""                     # Full URL of the API
+API_KEY = ""                     # API key    
+DEFAULT_MODEL = ""               # The name of the LLM used for the LLM judge
+INPUT_JSONL_LIST = []            # The path of our benchmark
+```
