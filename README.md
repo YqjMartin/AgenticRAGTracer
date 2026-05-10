@@ -2,8 +2,9 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/YqjMartin/AgenticRAGTracer)
 
----
+🎉 Our work has been accepted to **ACL 2026 Findings**!
 
+---
 ## 📁 Repository Structure
 
 ```bash
