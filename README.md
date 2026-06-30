@@ -1,5 +1,6 @@
 # AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.19127)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/YqjMartin/AgenticRAGTracer)
 
 🎉 Our work has been accepted to **ACL 2026 Findings**!
